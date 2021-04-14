@@ -1,0 +1,8 @@
+. Welcome to the man page!
+.TH HSH 1 "15 April 2021" "The cheat codes"
+.SH NAME \" This is the section header
+.Nm Simple_Shell
+- This is a limited command line interpretor.
+
+.Sh Authors
+Lucas Lazarre & Sean Frechette
